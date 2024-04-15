@@ -1,2 +1,2 @@
-# HDI-Tableau-Visualization
-Human Development visualization made with Tableau
+# Human Development Visualization
+See and interact with the Tableau visualization [here](https://mdjoh.github.io/HDI-Tableau-Visualization/).
