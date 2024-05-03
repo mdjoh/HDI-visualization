@@ -1,2 +1,2 @@
 # Human Development Visualization
-See and interact with the Tableau visualization [here](https://mdjoh.github.io/HDI-Tableau-Visualization/).
+See and interact with the Tableau visualization [here](https://mdjoh.github.io/HDI-visualization/).
