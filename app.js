@@ -2,7 +2,7 @@
 let viz;
 
 //Add Share Link to Tableau Public in here
-const url = "https://public.tableau.com/shared/8PCKYG46P?:display_count=n&:origin=viz_share_link";
+const url = "https://public.tableau.com/views/HDIViz_17131632280670/HDIDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link";
 
 const vizContainer = document.getElementById('vizContainer');
 const options = {
